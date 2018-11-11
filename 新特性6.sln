@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "新特性6", "新特性6\新特性6.csproj", "{519B357D-E950-4399-8E7A-36E2E4FE7640}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lambda作为函数体", "Lambda作为函数体\Lambda作为函数体.csproj", "{F431BFF3-2A4B-40ED-AE40-87E2099C535C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lambda作属性", "Lambda作属性\Lambda作属性.csproj", "{44538FB4-01C0-4DF9-9185-585FFDBC7409}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "字符串内插", "字符串内插\字符串内插.csproj", "{DF46C9BA-28EE-4E7F-9613-E2919780C01F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "自动属性初始化", "自动属性初始化\自动属性初始化.csproj", "{C0ABE7E3-955B-400B-8E52-604B222649C7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "只读属性初始化", "只读属性初始化\只读属性初始化.csproj", "{D350C028-104B-4863-9E81-6A075BB78A61}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{519B357D-E950-4399-8E7A-36E2E4FE7640}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{519B357D-E950-4399-8E7A-36E2E4FE7640}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{519B357D-E950-4399-8E7A-36E2E4FE7640}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{519B357D-E950-4399-8E7A-36E2E4FE7640}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F431BFF3-2A4B-40ED-AE40-87E2099C535C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F431BFF3-2A4B-40ED-AE40-87E2099C535C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F431BFF3-2A4B-40ED-AE40-87E2099C535C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F431BFF3-2A4B-40ED-AE40-87E2099C535C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44538FB4-01C0-4DF9-9185-585FFDBC7409}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44538FB4-01C0-4DF9-9185-585FFDBC7409}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44538FB4-01C0-4DF9-9185-585FFDBC7409}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44538FB4-01C0-4DF9-9185-585FFDBC7409}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF46C9BA-28EE-4E7F-9613-E2919780C01F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF46C9BA-28EE-4E7F-9613-E2919780C01F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF46C9BA-28EE-4E7F-9613-E2919780C01F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF46C9BA-28EE-4E7F-9613-E2919780C01F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0ABE7E3-955B-400B-8E52-604B222649C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0ABE7E3-955B-400B-8E52-604B222649C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0ABE7E3-955B-400B-8E52-604B222649C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0ABE7E3-955B-400B-8E52-604B222649C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D350C028-104B-4863-9E81-6A075BB78A61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D350C028-104B-4863-9E81-6A075BB78A61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D350C028-104B-4863-9E81-6A075BB78A61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D350C028-104B-4863-9E81-6A075BB78A61}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FCFD928E-5C64-4E71-97E4-454ECCDC9DA1}
+	EndGlobalSection
+EndGlobal
